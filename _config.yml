@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            'zubeyir'
 tagline:          'baba'
-description:      'beni <a href="http://twitter.com/zubbay" target="_blank">@zubbay</a>, <a href="https://eksi1arti5.com" target="_blank">eksi1arti5</a> ve <a href="https://github.com/zubeyir" target="_blank">Github da</a> bulabilirsiniz'
+description:      'beni <a href="http://twitter.com/zubbay" target="_blank">@zubbay</a>, <a href="https://e1a5.com" target="_blank">eksi1arti5</a> ve <a href="https://github.com/zubeyir" target="_blank">Github da</a> bulabilirsiniz'
 url:              http://zubeyir.github.io
 baseurl:          /
 
