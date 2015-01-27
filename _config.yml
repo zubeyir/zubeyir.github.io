@@ -7,20 +7,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            zubeyir
+tagline:          'baba'
+description:      'beni <a href="http://twitter.com/zubbay" target="_blank">@zubbay</a>, <a href="https://eksi1arti5.com" target="_blank">eksi1arti5</a> ve <a href="https://github.com/zubeyir" target="_blank">Github'da</a> bulabilirsiniz'
+url:              http://zubeyir.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Zübeyir Bayraktaroğlu'
+  url:            https://twitter.com/zubbay
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1
 
-github:
-  repo:           https://github.com/poole/hyde
+github:				https://github.com/zubeyir
+  repo:           
