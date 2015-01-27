@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            zubeyir
+title:            'zubeyir'
 tagline:          'baba'
-description:      'beni <a href="http://twitter.com/zubbay" target="_blank">@zubbay</a>, <a href="https://eksi1arti5.com" target="_blank">eksi1arti5</a> ve <a href="https://github.com/zubeyir" target="_blank">Github'da</a> bulabilirsiniz'
+description:      'beni <a href="http://twitter.com/zubbay" target="_blank">@zubbay</a>, <a href="https://eksi1arti5.com" target="_blank">eksi1arti5</a> ve <a href="https://github.com/zubeyir" target="_blank">Github da</a> bulabilirsiniz'
 url:              http://zubeyir.github.io
 baseurl:          /
 
@@ -22,5 +22,5 @@ paginate:         5
 # Custom vars
 version:          1
 
-github:				https://github.com/zubeyir
-  repo:           
+github:           https://github.com/zubeyir
+  repo:/
