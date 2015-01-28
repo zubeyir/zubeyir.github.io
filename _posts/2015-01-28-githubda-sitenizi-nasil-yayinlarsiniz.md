@@ -4,11 +4,18 @@ title: Github'da sitenizi nasıl yayınlarsınız?
 ---
 
 Birçok *WordPress*, *BlogSpot* ve benzeri içerik yönetim sistemleri (content management system, CMS) neden başka birşey kullanayım diye sorabilirsiniz.
-Aslında kullanmanıza gerek yok. Sadece benim gibi bu sitelerin verdiği sonuçlardan, herşeye hakim olamamaktan ve arka planda yürüyen işlerin karmaşıklığından sıkıldıysanız bunu yapmak istersiniz.
+
+Aslında kullanmanıza gerek yok. Sadece benim gibi bu sitelerin verdiği sonuçlardan, herşeye hakim olamamaktan ve arka planda yürüyen işlerin karmaşıklığından sıkıldıysanız bunu yapmak isteyebilirsiniz.
+
 Github, ortak ve herkesin katkı verebileceği yazılım projeleri geliştirmek için bir ortam. Bu ortamı yalnızca bu amaç için kullanmak haksızlık etmek olabilir. Ortak çalışma yapılabilecek tüm amaçlar için kullanılabilir. Sağladığı en büyük avantaj sizin ve ekibinizin yaptığı değişiklikleri görebilmeniz ve ekibin projenin farklı kısımları üzerinde aynı anda çalışabilmesi.
+
 Websitesi oluşturmak için sağladığı avantaj ise CMS'lerin ihtiyacı olan veritabanı ve karmaşık dillerin kullanımını gerektirmemesi. Yaptığınız herşey gayet şeffaf bir biçimde elinizin altında. Oluşturduğunuz metin dosyalarını web sayfalarına dönüştürüp internette yayınlıyorsunuz.
-Github üzerinde oluşturduğunuz statik sayfaları isterseniz bir blog olarak da yayınlayabiliyorsunuz. Belki WP, BS gibi sitelerin sağladığı avantaj budur. Ancak Jekyll aracılığı ile bunu Github üzerinde de rahatlıkla yapabiliyorsunuz.
+
+Github üzerinde oluşturduğunuz statik sayfaları isterseniz bir blog olarak da yayınlayabiliyorsunuz. WP, BS gibi sitelerin sağladığı avantaj blog yazabilmeniz. Ancak Jekyll aracılığı ile bunu Github üzerinde de rahatlıkla yapabiliyorsunuz.
+
 Github üzerinde bu işleri yapmanın bir diğer avantajı sitemi *nerede saklayacağım* sorunu olmaması. Github sitenizi sizin için saklıyor, kimseye para vermiyorsunuz. Github üzerinde oluşturduğunuz siteler kullaniciadi.github.io adresine sahip olabileceği gibi isterseniz kendinize özel bir alan adı alıp bu alan adına kişilerin ulaşmasını sağlayabiliyorsunuz. Mesela bu sitenin Github adı zubeyir.github.io olmasına karşın özel ismi zubeyir.in ve bu adresi kullanarak bu siteye ulaşabiliyorsunuz.
+
+Aşağıda bahsettiklerim oldukça karmaşık görünebilir. Bir kere ne olduğunu anladığınızda kolaylıkla halledilebiliyor.
 
 Bu imkanlardan faydalanmak için önce Github üzerinde bir kullanıcı oluşturun.
 
