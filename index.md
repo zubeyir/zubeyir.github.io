@@ -4,7 +4,7 @@ title: Anasayfa
 ---
 # Merhaba, ben Zübeyir
 
-Veri, analiz ve programlama ilgi alanlarım. Biyoinformatik ve veri analizi konusunda bilgimi geliştirmeye çalışıyorum. R ve Python gibi programlama dillerini öğreniyorum.
+Nörobilim, veri analizi ve programlama ilgi alanlarım. Biyoinformatik ve veri analizi konusunda bilgimi geliştirmeye çalışıyorum. R ve Python gibi programlama dillerini öğreniyorum.
 
 Doktora ve doktora sonrası çalışmalarımda kognitif elektrofizyoloji ve fonksiyonel nörogörüntüleme yöntemlerini kullanarak araştırmalar gerçekleştirdim. MATLAB programlama dilini sinyal analizi, kullanıcı arayüzleri ve uyaran sunum yazılımları geliştirmek için kullandım.
 
