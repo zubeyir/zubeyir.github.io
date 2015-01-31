@@ -12,7 +12,7 @@ Her hafta ders ve uygulama birarada olacaktır.
 
 Öğrenciler ödevleri gruplar halinde tartışılabilir; ancak herkes kendi ödevini yapmaktan sorumludur ve bir diğerinin ödevini yapamaz. Bu konuda öğrencilerin dürüst olması ve etik kurallara uyması beklenmektedir.
 
-Sadece dersi dinlemek isteyenler derse katılabilirler. Fakat düzenli devam etmeleri gerekmetkedir.
+Sadece dersi dinlemek isteyenler derse katılabilirler. Fakat düzenli devam etmeleri gerekmektedir.
 
 ## Materyal
 Okuma: Makaleler ve kitaptan bölümler (sonra bildirilecek)
@@ -21,6 +21,7 @@ Kitap:
 
 * [Functional Magnetic Resonance Imaging, 3ed, 2014, Scott A. Huettel, Allen W. Song, Gregory McCarthy](http://www.sinauer.com/catalog/neuroscience/functional-magnetic-resonance-imaging-621.html)
 
+## Diğer Kaynaklar
 * [NEUROBIO 381/PSY 362 - Graduate Class - Functional Magnetic Resonance Imaging](https://www.biac.duke.edu/education/courses/)
 
 ## Değerlendirme
@@ -38,16 +39,16 @@ Dersin bir parçası olarak 1 saatlik bir MR çekimine katılmanız beklenmekted
 
 ### Beyin yapıları, nöroanatomik terimler
 ### BOLD fMRI
-#### Default mode network
-#### Resting state
+####    Default mode network
+####    Resting state
 #### Functional connectivity
 
 ### FSL’e giriş
 ### Sinyal ve Gürültü
 ### Önişleme
 ### Deney tasarımı
-####  Blok tasarım
-####  Olaya ilişkin tasarım
+####    Blok tasarım
+####    Olaya ilişkin tasarım
 ### İstatistik - Genel doğrusal model (GLM)
 ### İstatistik - İleri teknikler
 ### Kognitif nörobilimde kullanımı
