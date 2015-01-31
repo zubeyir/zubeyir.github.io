@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subpage
 title: Fonskiyonel Nörogörüntüleme - 2015 Bahar
 ---
 
@@ -29,8 +29,6 @@ Ders notu sınıfa devam ve tartışmalara katılım (%20) ve haftalık 8 ödev 
 Dersin bir parçası olarak 1 saatlik bir MR çekimine katılmanız beklenmektedir. Kaydedilen veriler derste kullanılacağından, tıbbi bir durum dışında herkesin katılması gerekmektedir. Çekimler Mart ayının ilk haftasında yapılacaktır.
 
 ## Ders Programı
-
-### I. Hafta. İnsan beyninin yapısı ve işlevlerine giriş
 
 ### fMRI’ya giriş
 ### Temel prensipler
