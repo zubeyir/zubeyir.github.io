@@ -21,7 +21,7 @@ Kitap:
 
 * [Functional Magnetic Resonance Imaging, 3ed, 2014, Scott A. Huettel, Allen W. Song, Gregory McCarthy](http://www.sinauer.com/catalog/neuroscience/functional-magnetic-resonance-imaging-621.html)
 
-## Diğer Kaynaklar
+Diğer Kaynaklar
 * [NEUROBIO 381/PSY 362 - Graduate Class - Functional Magnetic Resonance Imaging](https://www.biac.duke.edu/education/courses/)
 
 ## Değerlendirme
@@ -31,31 +31,31 @@ Dersin bir parçası olarak 1 saatlik bir MR çekimine katılmanız beklenmekted
 
 ## Ders Programı
 
-### fMRI’ya giriş
-### Temel prensipler
-### Görüntü oluşturulması
-### Kontrast mekanizmaları ve pulse sekansları
-### Nöronal aktivitenin hemodinamik aktiviteye dönüşümü
+#### fMRI’ya giriş
+#### Temel prensipler
+#### Görüntü oluşturulması
+#### Kontrast mekanizmaları ve pulse sekansları
+#### Nöronal aktivitenin hemodinamik aktiviteye dönüşümü
 
-### Beyin yapıları, nöroanatomik terimler
-### BOLD fMRI
-####    Default mode network
-####    Resting state
-#### Functional connectivity
+#### Beyin yapıları, nöroanatomik terimler
+#### BOLD fMRI
+#####    Default mode network
+#####    Resting state
+##### Functional connectivity
 
-### FSL’e giriş
-### Sinyal ve Gürültü
-### Önişleme
-### Deney tasarımı
-####    Blok tasarım
-####    Olaya ilişkin tasarım
-### İstatistik - Genel doğrusal model (GLM)
-### İstatistik - İleri teknikler
-### Kognitif nörobilimde kullanımı
-### Diğer yöntemlerle birlikte kullanımı
-### İleri MR/fMRI yöntemleri
-### Etik
+#### FSL’e giriş
+#### Sinyal ve Gürültü
+#### Önişleme
+#### Deney tasarımı
+#####    Blok tasarım
+#####    Olaya ilişkin tasarım
+#### İstatistik - Genel doğrusal model (GLM)
+#### İstatistik - İleri teknikler
+#### Kognitif nörobilimde kullanımı
+#### Diğer yöntemlerle birlikte kullanımı
+#### İleri MR/fMRI yöntemleri
+#### Etik
 
-### Beyin işlevlerinin geridönüşümlü manipülasyonu - TMS, DCS, farmakolojik
+#### Beyin işlevlerinin geridönüşümlü manipülasyonu - TMS, DCS, farmakolojik
 
-### Diğer yöntemler - DTI, MRS, PET
+#### Diğer yöntemler - DTI, MRS, PET
