@@ -1,3 +1,7 @@
+---
+layout: page
+title: egitim
+---
 ##Otonom Sinir Sistemi
 
 Otonom sinir sistemi vücudun viseral işlevlerinin çoğunu kontrol sinir sistemi bölümüdür. Kan basıncı, gastrointestinal hareket, mesanenin boşalması, terleme, vücut ısısı ve diğer benzeri işlevleri tamamen veya kısmen kontrol eder.
