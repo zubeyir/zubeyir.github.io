@@ -1,7 +1,8 @@
 ---
-layout: page
-title: egitim
+layout: subpage
+title: Otonom Sinir Sistemi - 2016 Bahar
 ---
+
 ##Otonom Sinir Sistemi
 
 Otonom sinir sistemi vücudun viseral işlevlerinin çoğunu kontrol sinir sistemi bölümüdür. Kan basıncı, gastrointestinal hareket, mesanenin boşalması, terleme, vücut ısısı ve diğer benzeri işlevleri tamamen veya kısmen kontrol eder.
@@ -77,3 +78,6 @@ Sempatetik ve parasempatetik sistemler sürekli aktiftir ve bazal aktivite düze
 Dokulara gelen OSS liflerinin kesilmesinden bir süre sonra doku norepinefrin veya asetilkoline aşırı duyarlı hale geldiği gösterilmiştir ve buna denervasyon aşırı duyarlılığı denir. Bu duyarlılığın mekanizmalarından birinde, sinirden salınan nörotransmitter yokluğunda hedef hücrelerin yüzeyinde gözlenen reseptör artışı (up-regülasyon) rol almaktadır. 
 
 ##Otonom refleksler
+
+
+Son değiştirilme tarihi: 11.04.2016 17:37
