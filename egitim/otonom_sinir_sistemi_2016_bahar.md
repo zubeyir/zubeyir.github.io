@@ -1,10 +1,10 @@
-**Otonom Sinir Sistemi
+##Otonom Sinir Sistemi
 
 Otonom sinir sistemi vücudun viseral işlevlerinin çoğunu kontrol sinir sistemi bölümüdür. Kan basıncı, gastrointestinal hareket, mesanenin boşalması, terleme, vücut ısısı ve diğer benzeri işlevleri tamamen veya kısmen kontrol eder.
 
 OSS’nin önemli bir özelliği viseral işlevleri saniyeler içerisinde büyük miktarda değiştirebilmesidir. Saniyeler içerisinde kalp hızını arttırıp kan basıncını yükseltmesi örnek verilebilir.
 
-***Otonom sinir sisteminin organizasyonu
+###Otonom sinir sisteminin organizasyonu
 
 Aktivitesi omurilik, beyin sapı ve hipotalamusta bulunan merkezler tarafından kontrol edilir. Serebral korteks limbik korteks aracılığı ile alt merkezlere sinyaller göndererek OSS’yi etkiler.
 
@@ -24,12 +24,12 @@ Sakral parasempatetik lifler pelvik sinirler içerisinde inen kolon, rektum, mes
 
 Parasempatetik sinirlerin de pre ve post-gangliyonik bölümleri vardır. Yalnız, parasempatetik pregangliyonik lifler hedef dokuya kadar ulaşırak burada sonlanır. Postgangliyonik nöronlar dokuda uyarımı kısa aksonları ile sağlar.
 
-***OSS Nörotransmittleri
+###OSS Nörotransmittleri
 OSS’de sinir liflerinden başlıca iki nörotransmitterden biri salgılanır. Sempatetik sinir liflerinden norepinefrin salgılanır ve bu lifler adrenerjik lifler olarak adlandırılır. Parasempatetik sinir liflerinden başlıca asetilkolin salgılanır ve kolinerjik lifler olarak adlandırılırlar. 
 
 Pregangliyonik nöronların tamamı ve parasempatetik postgangliyonik nöronlar kolinerjiktir. Postgangliyonik nöronlara asetilkolin veya benzeri maddeler uygulandığında postgangliyonik nöronların uyarılmasına neden olur. Bunun aksine, sempatetik postgangliyonik nöronların büyük çoğunluğu adrenerjiktir. Bunun istisnası ter bezlerine giden sempatetik liflerdir ve kolinerjiktirler.
 
-***Nörotransmitter Salınımı
+###Nörotransmitter Salınımı
 OSS’de sinir sonlanmaları genellikle uyardıkları hedef hücrelere yalnızca dokunarak geçerler ya da uyaracaklaır hücrenin yakınında sonlanırlar. Sinir liflerinin hedef hücrelerine yakınlaştıkları bu noktalardaki genişleme bölgelerine varikozite denir ve bu bölgelerdeki veziküllerde asetilkolin veya norepinefrin sentezlenerek depolanır. OSS’de sinir sonlanmalarının çok az bir kısmı sinir-kas kavşağına benzer ancak daha küçüktür. Aksiyon potansiyeli sinir boyunca yayıldığında hücre membranın kalsiyum geçirgenliğini arttırır, varikozitelere veya sinir sonlanmasına giren kalsiyum iyonları nörotransmitterlerin salınmasına yol açar.
 
 *Asetilkolin*, asetil-CoA ve kolin moleküllerinden kolinasetil transferaz enzimi ile sentezlenir. Salındıktan sonra dokuda yalnızca birkaç saniye etki gösterir ve asetilkolin esteraz enzimi ile asetat ve kolin moleküllerine parçalanır. Kolin, sinir sonlanmasına alınarak yeniden asetilkolin sentezinde kullanılır.
@@ -72,4 +72,4 @@ Sempatetik ve parasempatetik sistemler sürekli aktiftir ve bazal aktivite düze
 
 Dokulara gelen OSS liflerinin kesilmesinden bir süre sonra doku norepinefrin veya asetilkoline aşırı duyarlı hale geldiği gösterilmiştir ve buna denervasyon aşırı duyarlılığı denir. Bu duyarlılığın mekanizmalarından birinde, sinirden salınan nörotransmitter yokluğunda hedef hücrelerin yüzeyinde gözlenen reseptör artışı (up-regülasyon) rol almaktadır. 
 
-**Otonom refleksler
+##Otonom refleksler
