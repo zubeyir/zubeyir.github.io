@@ -1,6 +1,5 @@
 Otonom Sinir Sistemi
 
-
 Otonom sinir sistemi vücudun viseral işlevlerinin çoğunu kontrol sinir sistemi bölümüdür. Kan basıncı, gastrointestinal hareket, mesanenin boşalması, terleme, vücut ısısı ve diğer benzeri işlevleri tamamen veya kısmen kontrol eder.
 OSS’nin önemli bir özelliği viseral işlevleri saniyeler içerisinde büyük miktarda değiştirebilmesidir. Saniyeler içerisinde kalp hızını arttırıp kan basıncını yükseltmesi örnek verilebilir.
 Otonom sinir sisteminin organizasyonu
