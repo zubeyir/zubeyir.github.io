@@ -15,17 +15,19 @@ Aktivitesi omurilik, beyin sapı ve hipotalamusta bulunan merkezler tarafından 
 
 Efferent otonom sinyaller sempatetik ve parasempatetik yolla organlara dağılır.
 
-<embed src="./media/image1.emf" width="302" height="425" />
+<embed src="./media/image1.jpg" width="302" height="425" />
 
 **Sempatetik sinirler** omurilikte T1-L2 arasındaki omurilik segmentlerinden çıkarak önce omurga etrafındaki sempatetik zincire (paravertabral gangliyonlar) veya omurga önündeki sempatetik gangliyonlara (çölyak ve hipogastrik) girer ve buradan çıkan lifler sempatetik uyarı alan doku ve iç organlara uzanır. Sempatetik sinirler çıktıkları bölgeye göre T1 başa, T2 boyuna, T3-6 toraksa, T7-11 karın bölgesine, T12 ve L1-2 bacaklara dağılır. Dağılımları, kısmen embriyoda kaynaklandıkları bölgelerle ilişkilidir; örneğin, embriyonun boyun bölgesinden köken alan kalp, sinirlerini sempatetik zincirin boyun kısmından alır.
 
 OSS’de omurilik ile hedef doku arasında iki nöron bulunur. Omuriliği terk eden *pregangliyonik sempatetik nöron* gangliyona ulaştığında burada ikinci bir nöron ile sinaps yapar ve *postgangliyonik sempatetik* *nöron* olarak gangliyondan çıkarak hedef dokuya uzanır. Bazı postgangliyonik lifler, spinal sinirlerin içerisinde perifere uzanarak kan damarları, ter bezleri ve piloerektör kasların aktivitesini kontrol eder.
 
-<embed src="./media/image2.emf" width="302" height="288" />Sempatetik sistem içerisinde özel bir durum adrenal medulladır. Adrenal medullaya giden pregangliyonik lifler, sempatetik zincirlere uğramadan dokuda epinefrin ve norepinefrin sentezleyerek kana salgılayan hücreler üzerinde sonlanır. Bu salgı hücreleri nöral dokudan köken alırlar ve aslında postgangliyonik nöronlardır.
+<embed src="./media/image2.jpg" width="302" height="288" />
+
+Sempatetik sistem içerisinde özel bir durum adrenal medulladır. Adrenal medullaya giden pregangliyonik lifler, sempatetik zincirlere uğramadan dokuda epinefrin ve norepinefrin sentezleyerek kana salgılayan hücreler üzerinde sonlanır. Bu salgı hücreleri nöral dokudan köken alırlar ve aslında postgangliyonik nöronlardır.
 
 **Parasemptatetik sinirler** merkezi sinir sisteminden III, VII, IX ve X. kafa çiftleri (CN) ve S2-3 omurilik segmentleri aracılığıyla çıkar. Parasempatetik liflerin %75’i vagus (CN X) içerisinde göğüs ve karın bölgesine dağılır. Vagus sinirleri kalp, akciğer, özefagus, mide, ince bağırsak, kolonun ilk yarısı, karaciğer, safra kesesi, pankreas, böbrekler ve üreterlerin ilk kısmının parasempatetik uyarımını sağlar.
 
-<embed src="./media/image3.emf" width="302" height="395" />
+<embed src="./media/image3.jpg" width="302" height="395" />
 
 Parasempatetik lifler CN III içerisinde pupilla sfinkterine ve gözün siliyer kaslarına gider. CN VII içerisinde lakrimal, nazal ve submadibular bezlere ve CN IX içerisinde parotis bezine gider.
 
