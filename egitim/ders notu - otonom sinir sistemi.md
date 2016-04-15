@@ -1,16 +1,23 @@
-**Otonom Sinir Sistemi**
+---
+layout: subpage
+title: Otonom Sinir Sistemi - 2016 Bahar
+---
+
+# Otonom Sinir Sistemi
 
 Otonom sinir sistemi (OSS) vücudun viseral işlevlerinin çoğunu kontrol eden sinir sistemi bölümüdür. Kan basıncı, gastrointestinal hareket, mesanenin boşalması, terleme, vücut ısısı ve diğer benzeri işlevleri tamamen veya kısmen kontrol eder.
 
 OSS’nin önemli bir özelliği viseral işlevleri saniyeler içerisinde büyük miktarda değiştirebilmesidir. Saniyeler içerisinde kalp hızını arttırıp kan basıncını yükseltmesi buna örnek gösterilebilir.
 
-**Otonom sinir sisteminin organizasyonu**
+## Otonom sinir sisteminin organizasyonu
 
 Aktivitesi omurilik, beyin sapı ve hipotalamusta bulunan merkezler tarafından kontrol edilir. Serebral korteks, limbik korteks aracılığı ile alt merkezlere sinyaller göndererek OSS’yi etkiler.
 
 Efferent otonom sinyaller sempatetik ve parasempatetik yolla organlara dağılır.
 
-<embed src="./media/image1.emf" width="302" height="425" />**Sempatetik sinirler** omurilikte T1-L2 arasındaki omurilik segmentlerinden çıkarak önce omurga etrafındaki sempatetik zincire (paravertabral gangliyonlar) veya omurga önündeki sempatetik gangliyonlara (çölyak ve hipogastrik) girer ve buradan çıkan lifler sempatetik uyarı alan doku ve iç organlara uzanır. Sempatetik sinirler çıktıkları bölgeye göre T1 başa, T2 boyuna, T3-6 toraksa, T7-11 karın bölgesine, T12 ve L1-2 bacaklara dağılır. Dağılımları, kısmen embriyoda kaynaklandıkları bölgelerle ilişkilidir; örneğin, embriyonun boyun bölgesinden köken alan kalp, sinirlerini sempatetik zincirin boyun kısmından alır.
+<embed src="./media/image1.emf" width="302" height="425" />
+
+**Sempatetik sinirler** omurilikte T1-L2 arasındaki omurilik segmentlerinden çıkarak önce omurga etrafındaki sempatetik zincire (paravertabral gangliyonlar) veya omurga önündeki sempatetik gangliyonlara (çölyak ve hipogastrik) girer ve buradan çıkan lifler sempatetik uyarı alan doku ve iç organlara uzanır. Sempatetik sinirler çıktıkları bölgeye göre T1 başa, T2 boyuna, T3-6 toraksa, T7-11 karın bölgesine, T12 ve L1-2 bacaklara dağılır. Dağılımları, kısmen embriyoda kaynaklandıkları bölgelerle ilişkilidir; örneğin, embriyonun boyun bölgesinden köken alan kalp, sinirlerini sempatetik zincirin boyun kısmından alır.
 
 OSS’de omurilik ile hedef doku arasında iki nöron bulunur. Omuriliği terk eden *pregangliyonik sempatetik nöron* gangliyona ulaştığında burada ikinci bir nöron ile sinaps yapar ve *postgangliyonik sempatetik* *nöron* olarak gangliyondan çıkarak hedef dokuya uzanır. Bazı postgangliyonik lifler, spinal sinirlerin içerisinde perifere uzanarak kan damarları, ter bezleri ve piloerektör kasların aktivitesini kontrol eder.
 
@@ -26,7 +33,7 @@ Sakral parasempatetik lifler pelvik sinirler içerisinde inen kolon, rektum, mes
 
 Parasempatetik sinirlerin de pre- ve post-gangliyonik bölümleri vardır. Yalnız, parasempatetik pregangliyonik lifler hedef dokuya kadar ulaşarak burada sonlanır. Doku içerisindeki postgangliyonik nöronların aksonları kısadır.
 
-**OSS Nörotransmitterleri**
+### OSS Nörotransmitterleri
 
 OSS’de sinir liflerinden başlıca iki nörotransmitterden biri salgılanır. Sempatetik sinir liflerinden *norepinefrin* salgılanır ve bu lifler *adrenerjik* lifler olarak adlandırılır. Parasempatetik sinir liflerinden başlıca *asetilkolin* salgılanır ve *kolinerjik* lifler olarak adlandırılırlar.
 
@@ -76,7 +83,7 @@ Adrenal medulla’nın sürekli bazal seviyede salgısı önemli ölçüde sempa
 
 Dokulara gelen OSS liflerinin kesilmesinden bir süre sonra doku norepinefrin veya asetilkoline aşırı duyarlı hale gelir ve buna **denervasyon aşırı duyarlılığı** denir. Bu duyarlılığın mekanizmalarından biri, sinirden salınan nörotransmitter yokluğunda hedef hücrelerin yüzeyinde gözlenen reseptör artışıdır (up-regülasyon).
 
-**Otonom refleksler**
+## Otonom refleksler
 
 Birçok viseral işlev otonom reflekslerle düzenlenir.
 
@@ -86,13 +93,13 @@ GI yolun üst kısmı ve rektum, *GI otonom refleksler* aracılığı ile kontro
 
 Diğer otonom refleksler arasında işeme refleksi ve cinsel reflekslerden ereksiyon ve ejekülasyon sayılabilir.
 
-**Kitle deşarjı**
+### Kitle deşarjı
 
 Hipotalamus, korku veya şiddetli ağrı ile uyarıldığında sempatetik sistem yaygın aktivasyon gösterir. Bu durum, alarm veya stres yanıtı olarak adlandırılır. Sempatetik sistemin diğer uyarımları lokal yanıtlara yol açar. Örneğin, ısı düzenlenmesinde deri lokal olarak ısıtıldığında terleme ve vazodilastasyon yanıtı da lokaldir. Bunun yanında, GIS aktivitesi bağırsaktan paravetebral gangliyonlara gelen ve buradan dönen sinirlerle düzenlenir (sinyaller omuriliğe bile ulaşmaz).
 
 Parasempatetik sinir sistemi uyarıldığında yanıtlar genellikle lokalizedir. Kalp atım hızı, ağızda veya midede salgı, rektum veya mesane boşalması lokalize parasempatetik aktivasyona örnek gösterilebilir. Buna rağmen, birbiriyle ilişkili parasempatetik aktiviteler arasında koordinasyon mevcuttur. Parasempatetik uyarım ağızda sindirim sıvılarının artması ile eş zamanlı mide ve pankreastan da sindirim enzimlerinin salınımını arttırır.
 
-**Alarm veya Stres yanıtı**
+### Alarm veya Stres Yanıtı
 
 Sempatetik sistem, yaygın uyarı çıkardığında vücudun iş yapma gücünü arttırır. Bunun için yaygın vazokonstriksiyon ile karın içi organlara giden kan akımı azaltıp kas dokusuna kan sunumunu arttırır, hücre metabolizmasını hızlandırır, kan glikozunu, kas ve karaciğerde glikozi ve kas gücünü arttırır, zihinsel aktiviteyi hızlandırır ve kan pıhtılaşma hızını arttırır.
 
@@ -102,10 +109,12 @@ Beyin sapındaki çekirdekler kan basıncı, kalp hızı, GI kanal bezlerinin sa
 
 Beyin sapı otonom merkezlerinin işlevlerini düzenleyen yüksek merkezler arasında en önemlisi hipotalamustur. Posterior hipotalamus sinyalleri sempatetik sistemi uyararak kan basıncı ve kalp hızını arttırırken diğer hipotalamik merkezler, vücut ısısını, tükürük salgısını, GI aktivitesini kontrol eder. Yüksek merkezler OSS işlevlerini değiştirerek şiddetle uyardıklarında otonom kaynaklı peptik ülser, kabızlık, çarpıntı ve kalp krizi gibi durumlara yol açabilir.
 
-**Otonom Sinir Sistemi Farmakolojisi **
+## Otonom Sinir Sistemi Farmakolojisi 
 
 Adrenerjik etki gösteren ilaçlar bu etkiyi doğrudan adrenerjik maddeleri taklit ederek, sinir sonlanmalarından norepinefrin salgısını arttırarak veya dokuda kalma süresini uzatarak gösterebilir.
 
 Kolinerjik sistem etkisini ortaya çıkarmak için asetil kolinin dolaşıma verilmesi kısa yarı ömrü ve yaygın yan etkileri nedeniyle tercih edilen bir yöntem değildir. Bunun yerine asetilkolin benzeri daha uzun ömürlü maddeler kullanılabileceği gibi dokuda asetilkolin esteraz enzimini inhibe ederek asetilkolinin yıkımını azaltan ilaçlar da kullanılabilir.
 
 Sempatetik ve parasempatetik etkiyi bloke eden ilaçlar reseptör alt gruplarını bloke ederek özgül ve lokalize etki gösterebilirler.
+
+Son değiştirilme tarihi: 16.04.2016 16:35
