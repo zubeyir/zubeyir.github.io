@@ -3,15 +3,13 @@ layout: subpage
 title: Endorkin Sistem - 2016 Bahar
 ---
 
-Kimyasal Haberciler ile Vücut İşlevlerinin Koordinasyonu
-========================================================
+## Kimyasal Haberciler ile Vücut İşlevlerinin Koordinasyonu
 
 Nörotansmitterler, endokrin hormonlar, nöroendokrin hormonlar, parakrin ve otokrin hormonlar ve sitokinler vücudun haberleşmek için kullandığı kimyasal haberciler arasındadır. Bu haberciler birbirleriyle etkileşim göstererek vücudun homeostazisini sürdürürler.
 
 Nörotransmitterler sinir sonlanmalarından salgılanarak hücreler arası iletişimi sağlarlar. Endokrin hormonlar ise hücreler tarafından dolaşım sistemine salgılanarak vücuttaki tüm hücrelere iletilirler. Hedef hücrelerde reseptörlerine bağlanarak etki gösterirler. Bazı hormonlar vücutta çok çeşitli hücre türlerini etkileyebilirler. Örneğin büyüme hormonu farklı dokularda büyümeye neden olurken, tiroksin birçok kimyasal reaksiyonun hızını arttırır. Diğer hormonlar genellikle özgül hedef dokuları üzerinde etki gösterir. Örneğin, adrenokortikotropik hormon (ACTH) adrenal korteksten kortikoidlerin salgısını sağlar.
 
-Hormonların kimyasal yapısı ve sentezi
-======================================
+## Hormonların kimyasal yapısı ve sentezi
 
 Hormonlar yapılarına göre protein, steroid ve tirozin amino asidi türevleri olarak üç gruba ayrılabilir.
 
