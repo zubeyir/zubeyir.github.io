@@ -8,6 +8,7 @@ title: Eğitim
 * [Otonom Sinir Sistemi Fizyolojisi - 2016 Bahar](http://zubeyir.in/egitim/otonom_sinir_sistemi_2016_bahar)
 * [Endokrin Sistem Fizyolojisi - 2016 Bahar](http://zubeyir.in/egitim/endokrin_sistem_2016_Bahar)
 
-[//]: # "* [Fizyoloji Pratik Yoklama Formu]()"
+
+* [Fizyoloji Pratik Yoklama Formu](https://drive.google.com/open?id=1hr4sAv6BTMhXe_f2dvhEObrMx3cYqWL0MQsnVq23aBY)
 
 
