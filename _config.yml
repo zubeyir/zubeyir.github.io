@@ -24,4 +24,5 @@ version:          1
 github:           https://github.com/zubeyir
   repo:/
 
-theme: jekyll-theme-cayman
+theme: 
+<!-- theme: jekyll-theme-cayman -->
