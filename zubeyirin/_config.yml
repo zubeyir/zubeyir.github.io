@@ -1,44 +1,44 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            zubeyir
+tagline:          baba
+description:      'beni <a href="https://tr.linkedin.com/in/zubeyirbayraktaroglu/" target="_blank">LinkedIn</a>, <a href="http://twitter.com/zubbay" target="_blank">@zubbay</a>, <a href="http://e1a5.com" target="_blank">eksi1arti5</a> ve <a href="https://github.com/zubeyir" target="_blank">Github</a>&apos;da bulabilirsiniz.'
+canonical: http://zubeyir.in
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Zubeyir Bayraktaroglu
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            “Researcher, Lecturer, Explorer”
+  email:          zubeyir@zubeyir.in
+  twitter:        zubbay
+  github:         zubeyir
+  # instagram:      zubeyir
+  # dribbble:       zubeyir
+  # disqus:         zubeyir
+  location:       “Istanbul, Turkey”
   # Plug in your disqus shortname!
 
 tools:
-  standards:      "HTML, SCSS, Jekyll"
+  standards:      “HTML, CSS, Jeykll”
   software:       "git"
 
 # Open Graph customization
 opengraph:
-  locale:           en_US
+  locale:           tr_TR
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: Hakkımda
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/zubeyir
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: eksi1arti5
+    url: http://eksi1arti5.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    “Turkey/Istanbul”
 future:      true
 highlighter: pygments
 markdown:    kramdown
