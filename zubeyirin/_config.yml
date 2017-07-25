@@ -7,18 +7,18 @@ canonical: http://zubeyir.in
 owner:
   name:           Zubeyir Bayraktaroglu
   avatar:         avatar.png
-  bio:            “Researcher, Lecturer, Explorer”
+  bio:            ???Researcher, Lecturer, Explorer???
   email:          zubeyir@zubeyir.in
   twitter:        zubbay
   github:         zubeyir
   # instagram:      zubeyir
   # dribbble:       zubeyir
   # disqus:         zubeyir
-  location:       “Istanbul, Turkey”
+  location:       ???Istanbul, Turkey???
   # Plug in your disqus shortname!
 
 tools:
-  standards:      “HTML, CSS, Jeykll”
+  standards:      ???HTML, CSS, Jeykll???
   software:       "git"
 
 # Open Graph customization
@@ -28,7 +28,7 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Hakkımda
+  - title: Hakk??mda
     url: /about
   - title: Github
     url: https://github.com/zubeyir
@@ -38,7 +38,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    “Turkey/Istanbul”
+timezone:    ???Turkey/Istanbul???
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -59,6 +59,7 @@ kramdown:
 
 sass:
     style: :compressed
+    sass_dir: _sass
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
