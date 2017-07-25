@@ -58,8 +58,8 @@ kramdown:
     coderay_css: class
 
 sass:
-    style: :compressed
     sass_dir: _sass
+    style: :compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
