@@ -58,7 +58,7 @@ kramdown:
     coderay_css: class
 
 sass:
-    sass_dir: _sass /zubeyir.github.io/zubeyirin/_sass
+    sass_dir: sass 
     style: :compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
